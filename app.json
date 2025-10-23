@@ -1,10 +1,10 @@
 {
   "expo": {
-    "name": "automated-robot-cafe-pos",
+    "name": "Automated Cafe Pos Robot Controller",
     "slug": "automated-robot-cafe-pos",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/images/icon.png",
+    "icon": "./assets/icons/icon.png",
     "scheme": "automatedrobotcafepos",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
